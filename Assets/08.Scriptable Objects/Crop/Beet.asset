@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5aae17ade142d864f809376923e2238d, type: 3}
+  m_Name: Beet
+  m_EditorClassIdentifier: 
+  name: Crop
+  CropPrefab: {fileID: 4047630678412987775, guid: e08504f5d107f2c4c82e5e47deb8e91c, type: 3}
+  witheredPrefab: {fileID: 4047630678412987775, guid: 7131f82f0539dfe4bb60e74f7fd1fa3b, type: 3}
+  maxGrowth: 100
+  growthRate: 10
+  maxHealth: 100

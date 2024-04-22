@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - DebugText
+  - Crop
+  - ARinteraction
+  - SaveManager
+  - Farm
+  - BBG
+  - In
+  - Beet
+  - Asparagus
+  - Broccoli
+  - Carrot
+  - Lettuce
+  - Onion
+  - Potato
+  - Watermelon
+  - Wheat
+  - Building
+  - Pumpkin
+  - SaveManagerParent
+  - CropGood
+  - ingameObject
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Preview
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

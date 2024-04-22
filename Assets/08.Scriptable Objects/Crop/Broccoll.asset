@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5aae17ade142d864f809376923e2238d, type: 3}
+  m_Name: Broccoll
+  m_EditorClassIdentifier: 
+  name: Crop
+  CropPrefab: {fileID: 4047630678412987775, guid: 59ebc156a6970654ebddf170d4e21280, type: 3}
+  witheredPrefab: {fileID: 4047630678412987775, guid: 1cf66d8e58f455c4c863b44ee5c46b9d, type: 3}
+  maxGrowth: 100
+  growthRate: 10
+  maxHealth: 100
