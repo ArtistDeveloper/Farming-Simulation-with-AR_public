@@ -1,7 +1,7 @@
 # Farming-Simulation-with-AR_public
 
-Unity version : 2020.2.6fl
-AR Foundation Version : 4.0.12
+**Unity version** : 2020.2.6fl <br/>
+**AR Foundation Version** : 4.0.12
 - 유료 결제한 에셋이 존재하므로, 에셋을 제외하여 레포지토리에 업로드 하였습니다.
 
 ## 플레이 사진
